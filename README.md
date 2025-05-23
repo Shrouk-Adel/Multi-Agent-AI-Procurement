@@ -79,7 +79,7 @@ To run this project, you need the following:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/Multi-Agent-AI-Procurement.git
+   git clone https://github.com/Shrouk-Adel/Multi-Agent-AI-Procurement.git
    cd Multi-Agent-AI-Procurement
    ```
 
